@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.logout-button {
+  position: absolute;
+  top: 10px; /* Adjust this value as needed for vertical positioning */
+  right: 10px; /* Adjust this value as needed for horizontal positioning */
+  z-index: 1000; /* Optional: Set a z-index value if needed */
+}
