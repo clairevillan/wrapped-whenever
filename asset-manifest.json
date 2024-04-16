@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wrapped-whenever/static/css/main.33355d3d.css",
-    "main.js": "/wrapped-whenever/static/js/main.e57c8936.js",
+    "main.js": "/wrapped-whenever/static/js/main.383f4208.js",
     "static/js/453.c62a3ae0.chunk.js": "/wrapped-whenever/static/js/453.c62a3ae0.chunk.js",
     "static/media/logo.svg": "/wrapped-whenever/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/wrapped-whenever/index.html",
     "main.33355d3d.css.map": "/wrapped-whenever/static/css/main.33355d3d.css.map",
-    "main.e57c8936.js.map": "/wrapped-whenever/static/js/main.e57c8936.js.map",
+    "main.383f4208.js.map": "/wrapped-whenever/static/js/main.383f4208.js.map",
     "453.c62a3ae0.chunk.js.map": "/wrapped-whenever/static/js/453.c62a3ae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33355d3d.css",
-    "static/js/main.e57c8936.js"
+    "static/js/main.383f4208.js"
   ]
 }
